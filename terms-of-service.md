@@ -1,0 +1,1 @@
+The bot is for educational purpose.
